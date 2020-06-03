@@ -9,11 +9,11 @@ Genome-scale metabolic network for Human Human1
 https://stke.sciencemag.org/content/13/624/eaaz1482?rss=1
 
 ***Download Source***
-Direct Github SBML: https://github.com/SysBioChalmers/Human-GEM/tree/master/modelFiles/xml
-Github: https://github.com/SysBioChalmers/Human-GEM
-Available with API here: https://metabolicatlas.org/
-Repository link: https://metabolicatlas.org/gems/repository
-User Guide: https://sysbiochalmers.github.io/Human-GEM-guide/
+- Direct Github SBML: https://github.com/SysBioChalmers/Human-GEM/tree/master/modelFiles/xml
+- Github: https://github.com/SysBioChalmers/Human-GEM
+- Available with API here: https://metabolicatlas.org/
+- Repository link: https://metabolicatlas.org/gems/repository
+- User Guide: https://sysbiochalmers.github.io/Human-GEM-guide/
 
 #
 **RECON3D**
@@ -24,6 +24,6 @@ Genome-scale metabolic network for Human RECON3D
 https://www.nature.com/articles/nbt.4072#Sec25
 
 ***Download source***
-Available here: http://bigg.ucsd.edu/models/Recon3D
-Also available with API here: https://www.vmh.life/
-Direct link: https://www.vmh.life/#human/all
+- Available here: http://bigg.ucsd.edu/models/Recon3D
+- Also available with API here: https://www.vmh.life/
+- Direct link: https://www.vmh.life/#human/all
