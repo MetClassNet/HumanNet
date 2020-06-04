@@ -1,5 +1,5 @@
 # **HumanNet**
-Human Metabolic Network
+**Human Metabolic Network**
 #
 **Human1**
 Genome-scale metabolic network for Human Human1
