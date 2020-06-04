@@ -2,7 +2,7 @@
 **Human Metabolic Network**
 #
 **Human1**
-Genome-scale metabolic network for Human Human1
+*Genome-scale metabolic network for Human*
 
 ***Reference***
 >Robinson JL, Kocabaş P, Wang H, Cholley PE, Cook D, Nilsson A, Anton M, Ferreira R, Domenzain I, Billa V, Limeta A. An atlas of human metabolism. Science Signaling. 2020 Mar 24;13(624).
@@ -17,7 +17,7 @@ https://stke.sciencemag.org/content/13/624/eaaz1482?rss=1
 
 #
 **RECON3D**
-Genome-scale metabolic network for Human RECON3D
+*Genome-scale metabolic network for Human*
 
 ***Reference***
 >Brunk E, Sahoo S, Zielinski DC, Altunkaya A, Dräger A, Mih N, Gatto F, Nilsson A, Gonzalez GA, Aurich MK, Prlić A. Recon3D enables a three-dimensional view of gene variation in human metabolism. Nature biotechnology. 2018 Mar;36(3):272.
