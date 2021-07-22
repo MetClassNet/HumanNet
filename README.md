@@ -3,7 +3,7 @@
 Contains genome-scale metabolic networks and analysis done on the human metabolic network. 
 
 #
-**RetroBioSyn**: folder contains retrobiosynthesis based analysis of human metabolic network 
+**RetroBioMet**: folder contains retrobiosynthesis based analysis of human metabolic network 
   * Mass differences based on reaction rules 
   * Predicted metabolites based on reaction rules and metabolites present in the HumanNet
 
